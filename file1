@@ -1,0 +1,69 @@
+Logged into ROUTERAAAA01
+
+Physical interface: xe-0/0/0, Enabled, Physical link is Up
+    Carrier transitions: 100, Errors: 0, Drops: 100, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 200, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/0/1, Enabled, Physical link is Up
+    Carrier transitions: 101, Errors: 0, Drops: 101, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 201, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB02
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 300, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 400, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 301, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 401, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB03
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 300, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 400, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 301, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 401, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB04
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 300, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 400, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 301, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 401, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB05
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 300, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 400, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 301, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 401, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB06
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 300, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 400, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 301, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 401, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB07
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 300, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 400, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 301, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 401, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB08
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 300, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 400, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 301, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 401, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB09
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 300, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 400, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 301, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 401, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB10
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 300, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 400, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 301, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 401, MTU errors: 0, Resource errors: 0

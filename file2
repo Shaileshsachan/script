@@ -1,0 +1,24 @@
+Logged into ROUTERAAAA
+
+Physical interface: xe-0/0/0, Enabled, Physical link is Up
+    Carrier transitions: 100, Errors: 0, Drops: 1000, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 2000, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/0/1, Enabled, Physical link is Up
+    Carrier transitions: 101, Errors: 0, Drops: 101, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 201, MTU errors: 0, Resource errors: 0
+
+Logged into ROUTERBBBB
+
+Physical interface: xe-0/1/0, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 3000, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 4000, MTU errors: 0, Resource errors: 0
+Physical interface: xe-0/1/1, Enabled, Physical link is Up
+    Carrier transitions: 11, Errors: 0, Drops: 3001, Collisions: 0, Aged packets: 0, FIFO errors: 0, HS link CRC errors: 4001, MTU errors: 0, Resource errors: 0
+
+
+routername, type, count
+ROUTERAAA,DROPS,XXX
+ROUTERBBB,CRC	,XXX
+
+Diff
+
+if higher than 100
+routername, type, count
+ROUTERAAA,INTF,DROPS,OriginalVal1, Newval1, D
